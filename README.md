@@ -1,4 +1,4 @@
-> ### ⚠ 本项目不提供Release安装包，请自行编译后运行测试。
+> ### ⚠ 本项目提供macOS（Apple Silicon）和Windows的Release安装包下载，其他平台请自行编译。
 
 
 <p align="center">
